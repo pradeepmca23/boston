@@ -8,6 +8,7 @@ This JavaScript program retrieves and displays information about the top five ea
 # How to run the code:
 
 step1:Save the HTML file with .html extension.
+
 step2:Click the "Go Live" button.A new browser window will open, displaying Boston data.
 
 # Future Enhancement:
